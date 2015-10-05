@@ -11,7 +11,7 @@ First names of all people
 
 Expenditures
 
-The first line contains number of people. Next line has the first names of each person
+The first line contains number of people. Next line has the first names of each person.
 The next few lines have the expenditures.
 Each expenditure is of the following format:
 <name of person who paid> <amount paid> <List of people for who he paid>
