@@ -28,7 +28,9 @@ B 500 C D
 
 D 300 A B
 
-Explanation: A spends 100 for A,B,C and D. B spends 500 for C and D. D spends 300 for A and B
+Explanation:
+
+A spends 100 for A,B,C and D. B spends 500 for C and D. D spends 300 for A and B
 
 Sample output:
 
