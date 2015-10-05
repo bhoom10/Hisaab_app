@@ -14,15 +14,22 @@ Each expenditure is of the following format:
 
 Sample input:
 4
+
 A B C D
+
 A 100 A B C D
+
 B 500 C D
+
 D 300 A B
 
 Sample output:
 A gives 75
+
 B gets 325
+
 C gives 275
+
 D gets 25
 
 
