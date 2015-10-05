@@ -2,12 +2,10 @@
 Accounts application for trips with friends
 
 This is a C++ applications that takes into account expenditures of a set of people for a period of time and outputs the settled accounts
+
 Input format:
-
 Number of People
-
 First names of all people
-
 Expenditures
 
 The first line contains number of people. Next line has the first names of each person
